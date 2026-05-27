@@ -9,7 +9,6 @@ public class MaxConsecutiveOnes {
             } else {
                 count = 0;
             }
-            
             if(count > max) {
                 max = count;
             }
